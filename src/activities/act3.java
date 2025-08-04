@@ -3,15 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package act3catipay;
+package activities;
 
 /**
  *
- * @author PC 41
+ * @author SCC-COLLEGE
  */
-public class act3catipay {
+public class act3 {
     public static void main(String[] args) {
         System.out.println("HEllo World");
     }
-    
 }

@@ -3,12 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cheactivity2;
+package activities;
 
-import java.util.Scanner; 
+import java.util.Scanner;
 
-public class cheactivity2 {
-    
+/**
+ *
+ * @author SCC-COLLEGE
+ */
+public class act2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
@@ -31,5 +34,4 @@ public class cheactivity2 {
         
               
     }
-    
 }
