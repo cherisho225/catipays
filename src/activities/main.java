@@ -5,6 +5,7 @@
  */
 package activities;
 
+import bankApp.banking;
 import java.util.Scanner;
 
 /**
@@ -27,7 +28,7 @@ public class main {
         
         switch(choice){
             case 1:
-            Banking bc = new Banking();
+            banking bc = new banking();
             int attempts = 3;
 
                 while (attempts > 0) {  

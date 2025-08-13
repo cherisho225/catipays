@@ -1,16 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package bankApp;
 
-/**
- *
- * @author SCC-COLLEGE
- */
+import java.util.Scanner;
+
 public class banking {
-    int accountNo = 10001;
+    
+    
+    int accountNo = 100021;
     String name;
     float initialBalance = 0;
     int pin = 1234;
@@ -34,4 +29,5 @@ public class banking {
     }
 
     
+
 }
